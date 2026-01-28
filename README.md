@@ -11,18 +11,16 @@ I'm a passionate developer who loves creating amazing web experiences and explor
 - 🔭 I'm currently working on exciting projects
 - 🌱 I'm currently learning new technologies and frameworks
 - 💬 Ask me about web development, accessibility, and design
-- 📫 How to reach me: [your-email@example.com]
+- 📫 How to reach me: [bilalzarri11@gmail.com]
 - ⚡ Fun fact: I use dark mode everywhere!
 
 ## 🌐 Connect With Me
 
 <div align="center">
   
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/yourhandle)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourhandle)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-zarrik-15208238a/)
+
 
 </div>
 
@@ -74,7 +72,7 @@ I'm a passionate developer who loves creating amazing web experiences and explor
 ### 📱 Project Name 1
 Brief description of your awesome project and what it does.
 - **Tech Stack:** React, Node.js, MongoDB
-- [View Project →](https://github.com/yourusername/project1)
+- [View Project →](https://github.com/bilalzarrik01/athena)
 
 ### 🎨 Project Name 2
 Another cool project that showcases your skills.
@@ -119,6 +117,6 @@ Feel free to reach out if you want to collaborate on a project, chat about tech,
 
 ![](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
 
-**⭐️ From [YourName](https://github.com/yourusername)**
+**⭐️ From [YourName](https://github.com/bilalzarrik01)**
 
 </div>
