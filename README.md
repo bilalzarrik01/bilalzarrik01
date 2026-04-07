@@ -11,7 +11,7 @@ I'm a passionate developer who loves creating amazing web experiences and explor
 - 🔭 I'm currently working on exciting projects
 - 🌱 I'm currently learning new technologies and frameworks
 - 💬 Ask me about web development, accessibility, and design
-- 📫 How to reach me: [bilalzarri11@gmail.com]
+- 📫 How to reach me: bilal@zarrik.com
 - ⚡ Fun fact: I use dark mode everywhere!
 
 
